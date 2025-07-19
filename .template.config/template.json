@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Alejandro Torres",
+  "classifications": [ "Clean Architecture", "WebAPI", "DDD" ],
+  "identity": "CleanArch.Template",
+  "name": "Clean Architecture Template",
+  "shortName": "cleanarch",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MyProject",
+  "preferNameDirectory": true
+}
